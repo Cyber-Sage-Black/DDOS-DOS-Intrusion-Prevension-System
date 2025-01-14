@@ -2,7 +2,7 @@
 
 ## Fig 1.0 – Installing Scapy
 
-![Installing Scapy](Image/image_9.png)
+![Installing Scapy](Images/image_9.png)
 
 ---
 
